@@ -1,3 +1,5 @@
 config.json
 .synced.json
 __pycache__/
+sync.log
+run_silent.vbs
